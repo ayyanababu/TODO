@@ -1,0 +1,6 @@
+const ON_CHANGE_OF_TEXT = 'CHANGE_OF_TEXT';
+const ON_ADD_TO_LIST = 'ON_ADD_TO_LIST'
+export default {
+    ON_CHANGE_OF_TEXT,
+    ON_ADD_TO_LIST
+}
